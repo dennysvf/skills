@@ -1,0 +1,10 @@
+{
+  "name": "pdf-to-epub",
+  "version": "0.1.0",
+  "description": "Convert PDFs to reflowable EPUBs with images anchored in reading order, and optionally translate EPUBs via LLM with structural verification and checkpoint resume.",
+  "author": {
+    "name": "Dennys"
+  },
+  "license": "MIT",
+  "keywords": ["pdf", "epub", "ebook", "translation", "kindle"]
+}
