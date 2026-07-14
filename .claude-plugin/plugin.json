@@ -1,0 +1,17 @@
+{
+  "name": "dennys-skills",
+  "owner": {
+    "name": "Dennys Freire",
+    "email": "dennysvf@gmail.com"
+  },
+  "description": "Plugins e skills de Dennys para Claude Code",
+  "plugins": [
+    {
+      "name": "pdf-to-epub",
+      "source": "./pdf-to-epub",
+      "description": "Convert PDFs to reflowable EPUBs with images anchored in reading order, and optionally translate EPUBs via LLM.",
+      "license": "MIT",
+      "keywords": ["pdf", "epub", "ebook", "translation", "kindle"]
+    }
+  ]
+}
